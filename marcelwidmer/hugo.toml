@@ -1,4 +1,0 @@
-baseURL = 'https://marzelwidmer.github.io/'
-languageCode = 'en-us'
-title = 'Resume - Marcel Widmer'
-theme = 'contrast-hugo'
