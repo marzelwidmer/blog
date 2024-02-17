@@ -1,0 +1,5 @@
+baseURL = 'https://marzelwidmer.github.io/'
+languageCode = 'en-us'
+title = 'Marcel Widmer'
+theme = 'contrast-hugo'
+

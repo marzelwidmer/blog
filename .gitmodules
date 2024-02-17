@@ -1,0 +1,4 @@
+[submodule "marzelwidmer.github.io/public"]
+	path = marzelwidmer.github.io/public
+	url = git@github.com:marzelwidmer/marzelwidmer.github.io.git
+	branch = main
