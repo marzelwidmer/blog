@@ -1,5 +1,31 @@
 baseURL = 'https://marzelwidmer.github.io/'
 languageCode = 'en-us'
 title = 'Marcel Widmer'
-theme = 'contrast-hugo'
+theme = 'github-style'
 
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+
+[params]
+author = "Marcel Widmer"
+description = "Keepcalm and code on"
+github = "marzelwidmer"
+email = "marzelwidmer@gmail.com"
+url = "https://marzelwidmer.github.io/"
+keywords = "google analytics"
+rss = false
+lastmod = true
+#favicon = "/images/github.png"
+avatar = "/images/avatar.png"
+headerIcon = "/images/GitHub-Mark-Light-32px.png"
+location = "Switzerland"
+userStatusEmoji = "🐵"
+[[params.links]]
+title = "GitHub - c3smonkey"
+href = "https://github.com/c3smonkey"
+icon = "/images/cool-gorilla.jpg"
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]

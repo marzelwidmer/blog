@@ -2,3 +2,6 @@
 	path = marzelwidmer.github.io/public
 	url = git@github.com:marzelwidmer/marzelwidmer.github.io.git
 	branch = main
+[submodule "marzelwidmer.github.io/themes/github-style"]
+	path = marzelwidmer.github.io/themes/github-style
+	url = git@github.com:MeiK2333/github-style.git

@@ -1,12 +1,19 @@
-+++
-title = 'Resume'
-date = 2024-02-17T16:36:08+01:00
-# draft = true
-+++
+---
+title : 'Curriculum Vitae'
+date : 2024-02-17T16:36:08+01:00
+draft: false
+summary: "Lebenslauf - Marcel Widmer"
+pin: true
+---
 
 # Lebenslauf
+## Inhaltsverzeichnis
+- [Profil](#Profil) 
+- [Berufserfahrung](#Berufserfahrung)
+- [Bildung](#Bildung)
+- [Sprachkenntnisse](#Sprachkenntnisse)
 
-## Profil
+## Profil {#Profil}
 
 Erfahrener Softwareentwickler mit über 20 Jahren Berufserfahrung in der Finanz-, Versicherungs- und Krankenversicherungsbranche. Spezialisiert auf die Entwicklung von Anwendungen mit Spring Boot, Cloud Computing (Spring Cloud) und Microservice-Architektur. Begeistert von Open-Source-Technologien und erfahren im Umgang mit Openshift.
 
@@ -16,7 +23,7 @@ Erfahrener Softwareentwickler mit über 20 Jahren Berufserfahrung in der Finanz-
 - Frameworks und Technologien: Spring Boot, Spring Cloud, Microservices, Openshift
 - Open Source Contributions: Aktive Nutzung und Beitrag zur Open-Source-Community
 
-## Berufserfahrung
+## Berufserfahrung {#Berufserfahrung}
 
 ### Application Architect & Java Developer (2018 - 2024)
 
@@ -117,7 +124,7 @@ _Adval Tech / AWM Werkzeugbau_
 - Programmierung der CNC-Fräsmaschinen (ISO, CAD, CAM).
 - Herstellung von Präzisions-Spritzgusswerkzeugen.
 
-## Bildung
+## Bildung {#Bildung}
 
 ### Software Testing für Anwendungsentwickler (2012)
 
@@ -151,7 +158,9 @@ _Adval Tech / AWM Werkzeugbau_
 
 - SIZ AG, Schweizerisches Informatik-Zertifikat
 
-# Sprachkenntnisse
+# Sprachkenntnisse {#Sprachkenntnisse}
 
 - **Deutsch**: Muttersprache
 - **Englisch**: Geschäftssprache
+
+
