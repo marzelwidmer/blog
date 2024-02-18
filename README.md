@@ -1,6 +1,7 @@
 # README
 
 ## Maintain
+
 ```bash
 cd ~/git/blog/marzelwidmer.github.io
 ```
@@ -10,11 +11,12 @@ hugo -t github-style
 ```
 
 ```bash
-git add . && git commit -m 'chore: publishing' && git push
+cd public
 ```
 
-
-
+```bash
+git add . && git commit -m 'chore: publishing' && git push
+```
 
 [Creating a Blog with Hugo and Github in 10 minutes](https://www.youtube.com/watch?v=LIFvgrRxdt4)
 
