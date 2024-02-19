@@ -31,7 +31,8 @@ _Helsana Versicherungen AG_
 
 #### Technische Aufgaben:
 
-- Leitung bei der Erarbeitung und Umsetzung von Richtlinien und Best Practices für die Entwicklung von Microservices.
+- Lead Developer für die Backend-Applikationen von myHelsana (Spring Boot / Kotlin):
+  - Leitung bei der Erarbeitung und Umsetzung von Richtlinien und Best Practices für die Entwicklung von Microservices.
 - Migration der Cloud-Native-Anwendung (Spring Boot/Kotlin) auf **OpenShift 3.11** und **4.x**:
   - Erarbeitung und Umsetzung der neuen **Azure Delivery Pipeline**.
   - Containerisierung der Applikationen mit Kustomize, Helm, Sealed Secrets und Skaffold.
